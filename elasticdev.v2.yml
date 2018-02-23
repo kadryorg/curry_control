@@ -25,7 +25,7 @@ infrastructure:
 build:
    leaderboard:
        stack_name: Stacks/CI/Meteor/React/Dev/main
-       repo: https://github/gear2000/leaderboard
+       repo: https://github.com/gear2000/leaderboard
        triggered_branches:
                  - master
                  - dev
